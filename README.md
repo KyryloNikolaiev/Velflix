@@ -1,6 +1,3 @@
-<a href="https://github.com/josuapsianturi/velflix"> <h1 align="center">Velflix</h1></a>
-<p align="center"><a href="https://github.com/josuapsianturi/velflix/blob/main/LICENSE"><img src="https://poser.pugx.org/cpriego/valet-linux/license.svg" alt="License"></a>
-</p>
 
 ## About
 
@@ -53,7 +50,7 @@ Package | Version
 Here is how you can run the project locally:
 1. Clone this repo
     ```sh
-    git clone https://github.com/josuapsianturi/velflix.git
+    git clone https://github.com/KyryloNikolaiev/Velflix.git
     ```
 
 1. Go into the project root directory
